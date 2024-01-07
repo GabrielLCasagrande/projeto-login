@@ -22,16 +22,6 @@
     width: 70%;
   }
 
-  div.campo > input { 
-  background-color: #6de8aa;
-  font-size: 1em;
-  height: 100%;
-  width: calc(100% - 45px);
-  border: 0px;
-  border-radius: 3px;
-  padding: 4px;
-  transform: translateY(-12.3px);
-} 
 }
 
 
@@ -67,16 +57,4 @@
   font-size:  1em;
   margin: 10px 0px;
 }
-
-div.campo > input { 
-  background-color: #6de8aa;
-  font-size: 1em;
-  height: 100%;
-  width: calc(100% - 45px);
-  border: 0px;
-  border-radius: 3px;
-  padding: 4px;
-  transform: translateY(-12px);
-}   
-
 }
